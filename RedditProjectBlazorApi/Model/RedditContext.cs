@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection.Emit;
 using Microsoft.EntityFrameworkCore;
+using RedditProjectBlazorApi.Model;
 
 namespace RedditProjectBlazorApi.Model
 {
